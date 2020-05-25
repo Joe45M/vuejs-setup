@@ -35,3 +35,8 @@ module.exports = {
 NOTE: `@` is an alias to the assets directory.
 
 More on global injection: https://css-tricks.com/how-to-import-a-sass-file-into-every-vue-component-in-an-app/
+
+
+## Useful VueJS tools
+VueJS carousel    - https://ssense.github.io/vue-carousel/
+VueJS Lottie Wrap - https://www.npmjs.com/package/lottie-vuejs
